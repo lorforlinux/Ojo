@@ -1,0 +1,13 @@
+1. clean up the code
+2. use ml to generalize the variables:
+    - houghlinesP 
+    - threshold value for binary image
+    - 
+3. better voice latency by using diffrent voice engine (tts)
+4. hand writing recognition
+5. after rotation use a classification code. if 0 (inverted) then rotate by 180
+6. can remove dilation and erosion
+7. for books detect a page (normal images later on)
+8. optimize the kernel size according to page size in Morphological operations
+9. possibly remove code for boxes
+10. update to do list regularly :')
